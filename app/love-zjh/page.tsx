@@ -17,7 +17,7 @@ export default function LoveConfessionPage() {
         <div className="relative w-full h-72 md:h-96 mb-10">
           <div className="absolute inset-0 border-4 border-pink-300 rounded-xl"></div>
           <p className="absolute inset-0 flex items-center justify-center text-pink-400 text-sm">
-            <img src="/zjh.jpg" alt="" />
+            <img src="/myd.jpg" alt="" />
           </p>
         </div>
 
